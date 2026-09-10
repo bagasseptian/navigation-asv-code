@@ -6,7 +6,7 @@
 
 // =====================================================
 // ASV SENSOR FUSION
-// GPS NEO-7M + MPU6500 + QMC5883L
+// GPS NEO-M8N + MPU6500 + QMC5883L
 // ARDUINO UNO
 //
 // COMMUNICATION:
